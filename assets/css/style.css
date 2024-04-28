@@ -1,7 +1,4 @@
 body{
-    max-width: 1240px;
-    padding: 10px;
-    margin: 0 auto;
     font-family: "Work Sans", sans-serif;
 }
 
@@ -18,7 +15,3 @@ body{
     width: 36px;
     height: 36px;
 }
-
-/* .carousel-caption{
-    top: 430px !important;
-} */
